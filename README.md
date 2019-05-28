@@ -1,2 +1,2 @@
 # sistv
-Sistema de ventas a ser desarrollado
+Sistema de ventas a ser desarrollado en clases
